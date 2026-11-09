@@ -1,11 +1,31 @@
 #EXTM3U url-tvg="https://iptvx.one/EPG,http://epg.one/epg2.xml.gz,https://github.com/matthuisman/i.mjh.nz/raw/master/SamsungTVPlus/us.xml.gz,https://str-01.sunset-media.org/epg.xml"
 
 
-#EXTINF:-1 group-title="🔺 INFO 🔺" tvg-logo="https://i.postimg.cc/76BWD3tc/1.gif",Обновление:08.11.2026
+#EXTINF:-1 group-title="🔺 INFO 🔺" tvg-logo="https://i.postimg.cc/76BWD3tc/1.gif",Обновление:09.11.2026
 http://194.26.229.213/zastavka/index.m3u8
 #EXTINF:-1 group-title="🔺 INFO 🔺" tvg-logo="https://i.postimg.cc/nrj0J6Dj/1.png",Android TV + Free TV
 http://194.26.229.213/intro/index.m3u8
 
+#EXTINF:-1 group-title="МатчПремьер1",Матч! Премьер HD
+http://192.168.0.209:6878/ace/manifest.m3u8?id=4b7c5f21b435d79c823e47572655a9c157a3ba12
+#EXTINF:-1 group-title="МатчПремьер2",Матч! Премьер HD
+http://192.168.0.209:6878/ace/manifest.m3u8?id=016d48fb89bb9505ab3f883db1bfb3a7c0a3eccc
+#EXTINF:-1 group-title="МатчПремьер3",Матч! Премьер HD
+http://192.168.0.209:6878/ace/manifest.m3u8?id=65d49691687add6a93692a757817bac4f204ed1f
+#EXTINF:-1 group-title="МатчПремьер4",Матч! Премьер HD
+http://192.168.0.209:6878/ace/manifest.m3u8?id=75a56863b6fe0407ad4305b4d7ee5643c3923565
+#EXTINF:-1 group-title="МатчПремьер5",Матч! Премьер HD
+http://192.168.0.209:6878/ace/manifest.m3u8?id=b28db77c5084da7993395d77df96c30bb134f0a9
+#EXTINF:-1 group-title="МатчПремьер6",Матч! Премьер HD
+http://192.168.0.209:6878/ace/manifest.m3u8?id=4a2f4be22f2e2210d422804be22f2e2210d42280
+#EXTINF:-1 group-title="МатчПремьер7",Матч! Премьер HD
+http://192.168.0.209:6878/ace/manifest.m3u8?id=aa82e7d4f03061f2144a2faa82e7d4f03061f214
+#EXTINF:-1 group-title="МатчПремьер8",Матч! Премьер HD
+http://192.168.0.209:6878/ace/manifest.m3u8?id=a1c9c552b4a75ca7bfc436410289fe08729bd1d9
+#EXTINF:-1 group-title="МатчПремьер9",Матч! Премьер HD
+http://192.168.0.209:6878/ace/manifest.m3u8?id=0f86119f233fd64fe85cc0b4a9059590d06d242a
+#EXTINF:-1 group-title="МатчПремьер10",Матч! Премьер HD
+http://192.168.0.209:6878/ace/manifest.m3u8?id=89099da65eff8f1480b0f62ea49401b619db34f4
 
 
 #EXTINF:-1 group-title="ТОР-ТВ",Первый канал
@@ -486,8 +506,6 @@ http://192.168.0.209:6878/ace/manifest.m3u8?id=b6baa046075d82da300fc1b16de96067a
 http://192.168.0.209:6878/ace/manifest.m3u8?id=a203f6b935a8ad8659c4c76c1d9c13afa6368ef2
 #EXTINF:-1 group-title="ТОР-ТВ",Матч! Страна
 http://192.168.0.209:6878/ace/manifest.m3u8?id=ef9c77bd94783448b8edb552109f5f15b2bd82d1
-#EXTINF:-1 group-title="ТОР-ТВ",Матч! Премьер HD
-http://192.168.0.209:6878/ace/manifest.m3u8?id=4b7c5f21b435d79c823e47572655a9c157a3ba12
 #EXTINF:-1 group-title="ТОР-ТВ",МАТЧ! Планета
 http://192.168.0.209:6878/ace/manifest.m3u8?id=106c8656fca0ca91a696110467788d202d7111af
 #EXTINF:-1 group-title="ТОР-ТВ",Матч! Игра HD
